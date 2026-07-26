@@ -10,7 +10,7 @@
 <br>
 
 💻 사용 언어
-- C 언어 (C Programming Language)
+- C 언어
 <br>
 
 📝 학습 내용
